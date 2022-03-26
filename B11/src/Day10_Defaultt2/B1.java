@@ -1,7 +1,7 @@
 
 // Default Modifier
-package Day10_Default2;
-import Day10_Default1.*;
+package Day10_Defaultt2;
+import Day10_Defaultt1.*;
 
 // This class is having default access modifier
 public class B1
