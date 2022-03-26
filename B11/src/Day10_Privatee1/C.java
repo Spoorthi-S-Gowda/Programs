@@ -1,6 +1,6 @@
 
 //Private Modifier
-package Day10_Private1;
+package Day10_Privatee1;
 
 class D
 {
